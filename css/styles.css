@@ -1,7 +1,38 @@
 .header {
     display: flex;
+    background-color: #FBF7F5;
+    padding-inline-end: 10px;
+    border-bottom: 2px solid teal;
+    border-radius: 10px;
+    justify-content: space-between;
+    
 }
 
-.header div {
-    flex: 1;
+
+
+
+.right {
+        display: flex;
+        align-items: center;
+        gap: 2px;
+        
+    }
+
+.logo {
+    width: 10ch;
+    
+}
+
+.social {
+    height: 12px;
+}
+
+.follow {
+    font-size: 12px;
+    justify-content: center;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
 }
