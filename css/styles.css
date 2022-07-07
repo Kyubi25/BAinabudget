@@ -32,11 +32,11 @@
 
 
 .social {
-    height: 12px;
+    height: 0.8rem;
 }
 
 .follow {
-    font-size: 12px;
+    font-size: 0.8rem;
     justify-content: center;
     color: rgb(22, 158, 158);
 }
@@ -44,6 +44,7 @@
 .title {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(22, 158, 158);
+    font-size: 2rem;
 }
 
 .presentation {
@@ -67,7 +68,7 @@
 
 .myself {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 22px;
+    font-size: 1.5rem;
 
 }
 
